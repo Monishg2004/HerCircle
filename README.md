@@ -1,7 +1,7 @@
 # 🌸 HerCycle - Women's Health & Wellness Companion
 
 <div align="center">
-  <img src="public\logo.png" alt="hercycle Logo" width="200"/>
+  <img src="public/logo.png" alt="HerCycle Logo" width="200"/>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-Hercycle is a holistic women's health application designed to empower users in managing their menstrual health, wellness, and emotional well-being. Built with React.js and styled with Tailwind CSS, the app offers a comprehensive suite of features for tracking cycles, monitoring health symptoms, integrated with AI assistant and accessing educational resources.
+HerCycle is a holistic women's health application designed to empower users in managing their menstrual health, wellness, and emotional well-being. Built with React.js and styled with Tailwind CSS, the app offers a comprehensive suite of features for tracking cycles, monitoring health symptoms, integrating with an AI assistant, and accessing educational resources.
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,6 @@ Hercycle is a holistic women's health application designed to empower users in m
 - **Icons:** React Icons
 - **Animations:** Framer Motion
 - **AI Integration:** Gemini API
-
 
 ## ✨ Features
 
@@ -59,13 +58,12 @@ Hercycle is a holistic women's health application designed to empower users in m
 - Mood pattern analysis
 - Secure data storage
 
-
 ## 💻 Installation & Setup
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Monishg2004/HerCircle.git
-   cd hercycle
+   git clone https://github.com/Monishg2004/HerCycle.git
+   cd HerCycle
    ```
 
 2. **Install Dependencies**
@@ -102,34 +100,32 @@ Hercycle is a holistic women's health application designed to empower users in m
 ## 👥 Contributor
 
 <div align="center">
-  
-  
-  ### Monish G
-  **Sri Eshwar College of Engineering**  
-  B.Tech Artificial Intelligence & Data Science  
-  3rd Year
+
+### Monish G
+**Sri Eshwar College of Engineering**  
+B.Tech Artificial Intelligence & Data Science  
+3rd Year
 </div>
 
 ## 📱 Screenshots
 
 <div align="center">
-<img src="Images\Home page.jpg" alt="Health Dashboard" width="200"/>
-  <img src="Images\Cycle Tracking.jpg" alt="Cycle Tracking" width="200"/>
-  <img src="Images\Education Resource.jpg" alt="Health Dashboard" width="200"/>
-  <img src="Images\Health and Mood.jpg" alt="AI Assistant" width="200"/>
-  <img src="Images\Health Assist.jpg" alt="Cycle Tracking" width="200"/>
-  <img src="Images\Symptom and wellness tracking.jpg" alt="Health Dashboard" width="200"/>
-  <img src="Images\Personal Journal.jpg" alt="AI Assistant" width="200"/>
+<img src="Images/Home page.jpg" alt="Home Page" width="200"/>
+<img src="Images/Cycle Tracking.jpg" alt="Cycle Tracking" width="200"/>
+<img src="Images/Education Resource.jpg" alt="Education Resource" width="200"/>
+<img src="Images/Health and Mood.jpg" alt="Health and Mood" width="200"/>
+<img src="Images/Health Assist.jpg" alt="Health Assist" width="200"/>
+<img src="Images/Symptom and Wellness Tracking.jpg" alt="Symptom and Wellness Tracking" width="200"/>
+<img src="Images/Personal Journal.jpg" alt="Personal Journal" width="200"/>
 </div>
 
 ## 📹 Demo Video
 
-[video link ]
-
-
-
-
-
+<div align="center">
+<video src="Images/Video.mp4" controls width="600">
+Your browser does not support the video tag.
+</video>
+</div>
 
 ---
 <div align="center">
