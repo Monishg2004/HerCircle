@@ -115,7 +115,7 @@ B.Tech Artificial Intelligence & Data Science
 <img src="Images/Education Resource.jpg" alt="Education Resource" width="200"/>
 <img src="Images/Health and Mood.jpg" alt="Health and Mood" width="200"/>
 <img src="Images/Health Assist.jpg" alt="Health Assist" width="200"/>
-<img src="Images/Symptom and Wellness Tracking.jpg" alt="Symptom and Wellness Tracking" width="200"/>
+<!-- <img src="Images/Symptom and Wellness Tracking.jpg" alt="Symptom and Wellness Tracking" width="200"/> -->
 <img src="Images/Personal Journal.jpg" alt="Personal Journal" width="200"/>
 </div>
 
