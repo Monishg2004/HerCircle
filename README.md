@@ -122,7 +122,7 @@ B.Tech Artificial Intelligence & Data Science
 ## 📹 Demo Video
 
 <div align="center">
-<video src="Images/Video.mp4" controls width="600">
+<video src="https://youtu.be/DExpMPD48BM" controls width="600">
 Your browser does not support the video tag.
 </video>
 </div>
