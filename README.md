@@ -1,7 +1,7 @@
 # 🌸 HerCycle - Women's Health & Wellness Companion
 
 <div align="center">
-  <img src="Images/logo.png" alt="HerCycle Logo" width="200"/>
+  <img src="public/logo.png" alt="HerCycle Logo" width="200"/>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
