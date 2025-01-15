@@ -1,7 +1,7 @@
 # 🌸 HerCycle - Women's Health & Wellness Companion
 
 <div align="center">
-  <img src="public/logo.png" alt="HerCycle Logo" width="200"/>
+  <img src="Images/logo.png" alt="HerCycle Logo" width="200"/>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -101,6 +101,13 @@ HerCycle is a holistic women's health application designed to empower users in m
 
 <div align="center">
 
+### Bavya C
+**Sri Eshwar College of Engineering**  
+B.Tech Artificial Intelligence & Data Science  
+3rd Year
+</div>
+<div align="center">
+
 ### Monish G
 **Sri Eshwar College of Engineering**  
 B.Tech Artificial Intelligence & Data Science  
@@ -122,9 +129,14 @@ B.Tech Artificial Intelligence & Data Science
 ## 📹 Demo Video
 
 <div align="center">
-<video src="https://youtu.be/DExpMPD48BM" controls width="600">
-Your browser does not support the video tag.
-</video>
+  <a href="https://youtu.be/DExpMPD48BM">
+    <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube"/>
+  </a>
+  <br /><br />
+  <a href="https://youtu.be/DExpMPD48BM">
+    <img src="https://img.youtube.com/vi/DExpMPD48BM/maxresdefault.jpg" alt="HerCycle Demo Video" width="600"/>
+  </a>
+  <p>👆 Click to watch the demo video</p>
 </div>
 
 ---
